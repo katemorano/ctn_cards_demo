@@ -12,7 +12,7 @@ div.bigcontainer{
     justify-content: space-between;
     width: 500px;
     border: 1px black solid;
-    margin: 0 auto;
+    margin: 0;
 }
 
 div.dua{
