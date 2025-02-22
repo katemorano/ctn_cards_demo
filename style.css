@@ -23,10 +23,15 @@ div.dua{
     padding-right: 20px;
     text-align: center;
     background-color: plum;
-    border-style: groove;
+    border-style: solid;
     border-width: 8px;
     border-color: purple;
 
+}
+
+mark.purple{
+    color: purple;
+    background-color: plum;
 }
 
 div.kacey{
@@ -38,9 +43,14 @@ div.kacey{
     padding-right: 20px;
     text-align: center;
     background-color: F1D26A ;
-    border-style: groove;
+    border-style: solid;
     border-width: 8px;
     border-color: 83670C;
+}
+
+mark.golden{
+    color: 83670C;
+    background-color:F1D26A;
 }
 
 div.kendrick{
@@ -52,9 +62,14 @@ div.kendrick{
     padding-right: 20px;
     text-align: center;
     background-color:8DE4FF;
-    border-style: groove;
+    border-style: solid;
     border-width: 8px;
     border-color: teal;
+}
+
+mark.blue{
+    color: teal;
+    background-color: 8DE4FF
 }
 
 div.duaphoto{
@@ -64,7 +79,7 @@ div.duaphoto{
     margin-right: auto;
     height: 300px;
     width: 200px;
-    border-style: groove;
+    border-style: solid;
     border-width: 4px;
     border-color: purple
     }
@@ -74,7 +89,7 @@ div.kaceyphoto{
     img{
     height: 300px;
     width: 200px; 
-    border-style: groove;
+    border-style: solid;
     border-width: 4px;
     border-color: 83670C; 
     }
@@ -84,7 +99,7 @@ div.kendrickphoto{
     img{
     height: 300px;
     width: 200px;
-    border-style: groove;
+    border-style: solid;
     border-width: 4px;
     border-color: teal
     }
